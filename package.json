@@ -1,0 +1,15 @@
+{
+  "name": "loginpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Justin Bair",
+  "license": "ISC",
+  "homepage": "https://justinbair97.github.io/loginpage",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
